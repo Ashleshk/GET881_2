@@ -9,7 +9,7 @@ public class User {
 		System.out.println("method 2");
 	}
 	public void method3(){
-		System.out.println("method 3");
+		System.out.println("method-3");
 	}
 	
 	public void method4(){
